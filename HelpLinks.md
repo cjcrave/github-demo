@@ -1,6 +1,6 @@
 # Good Git and GitHub Links
 
-To learn about GitHub you should try the [https://guides.github.com/activities/hello-world/](hello-world exercise).
+To learn about GitHub you should try the [hello-world exercise](https://guides.github.com/activities/hello-world/).
 
 This file is created using the GitHub flavor of markdown.  Here is a link to the [https://guides.github.com/features/mastering-markdown/](cheatsheet).
 
